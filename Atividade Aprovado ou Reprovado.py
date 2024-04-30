@@ -22,6 +22,7 @@ print(f"3ª nota: {nota3}")
 print(f"4ª nota: {nota4}")
 print(f"Média = {media}")
 
+print("\n")
 if media >= 7:
     print(f"APROVADO!!")
 else:
